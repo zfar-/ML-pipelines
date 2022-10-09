@@ -1,0 +1,13 @@
+*.csv
+*.egg-info/
+lib
+lib64
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+.DS_Store
+*.pyc
