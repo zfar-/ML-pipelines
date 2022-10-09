@@ -11,3 +11,8 @@ eggs
 parts
 .DS_Store
 *.pyc
+*.db
+*.err
+*.out
+*.complete
+*read_data
